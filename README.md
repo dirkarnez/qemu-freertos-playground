@@ -16,3 +16,5 @@ freertos-qemu-playground
 ### TODOs
 - [ ] atomic stuff, critical sections, semaphores (by programmically parallel input via serial ports on USART, etc)
 - [ ] multitasking
+- [ ] architecture switching
+  - [基于 qemu 的 riscv32架构的 freertos 体验 教程_qemu rtos编程-CSDN博客](https://blog.csdn.net/u011011827/article/details/120039082)
