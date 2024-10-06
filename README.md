@@ -14,6 +14,7 @@ freertos-qemu-playground
 - [FreeRTOS - ESP32 - — ESP-IDF Programming Guide v4.3 documentation](https://docs.espressif.com/projects/esp-idf/en/v4.3/esp32/api-reference/system/freertos.html)
 
 ### TODOs
+- [ ] **DO NOT USE CMAKE** Use tbuild
 - [ ] atomic stuff, critical sections, semaphores (by programmically parallel input via serial ports on USART, etc)
 - [ ] multitasking
 - [ ] architecture switching
