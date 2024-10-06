@@ -18,3 +18,8 @@ freertos-qemu-playground
 - [ ] multitasking
 - [ ] architecture switching
   - [基于 qemu 的 riscv32架构的 freertos 体验 教程_qemu rtos编程-CSDN博客](https://blog.csdn.net/u011011827/article/details/120039082)
+  - [FreeRTOS/FreeRTOS/Demo/RISC-V-Qemu-virt_GCC at main · FreeRTOS/FreeRTOS](https://github.com/FreeRTOS/FreeRTOS/tree/main/FreeRTOS/Demo/RISC-V-Qemu-virt_GCC)
+  - [FreeRTOS/FreeRTOS/Demo/Posix_GCC at main · FreeRTOS/FreeRTOS](https://github.com/FreeRTOS/FreeRTOS/tree/main/FreeRTOS/Demo/Posix_GCC)
+  - [FreeRTOS/FreeRTOS/Demo/WIN32-MingW at main · FreeRTOS/FreeRTOS](https://github.com/FreeRTOS/FreeRTOS/tree/main/FreeRTOS/Demo/WIN32-MingW)
+  - [FreeRTOS/FreeRTOS/Demo/CORTEX_A53_64-bit_UltraScale_MPSoC/RTOSDemo_A53/src/Blinky_Demo/main_blinky.c at main · FreeRTOS/FreeRTOS](https://github.com/FreeRTOS/FreeRTOS/blob/main/FreeRTOS/Demo/CORTEX_A53_64-bit_UltraScale_MPSoC/RTOSDemo_A53/src/Blinky_Demo/main_blinky.c)
+  - [FreeRTOS/Lab-Project-FreeRTOS-POSIX: This repository contains FreeRTOS+POSIX source code, which could be consumed as a submodule.](https://github.com/FreeRTOS/Lab-Project-FreeRTOS-POSIX/tree/main)
