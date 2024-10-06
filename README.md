@@ -1,5 +1,5 @@
-freertos-qemu
-=============
+freertos-qemu-playground
+========================
 - [dirkarnez/cpp-arm64-baremetal-machine-learning-playground](https://github.com/dirkarnez/cpp-arm64-baremetal-machine-learning-playground)
 - [FreeRTOS/FreeRTOS/Demo/Common/Minimal at main · FreeRTOS/FreeRTOS](https://github.com/FreeRTOS/FreeRTOS/tree/main/FreeRTOS/Demo/Common/Minimal)
 - [FreeRTOS/FreeRTOS/Demo/Common/Minimal at main · FreeRTOS/FreeRTOS](https://github.com/FreeRTOS/FreeRTOS/tree/main/FreeRTOS/Demo/Common/Minimal)
