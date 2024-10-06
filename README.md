@@ -12,3 +12,7 @@ freertos-qemu-playground
 - [xTaskCreate - FreeRTOS™](https://www.freertos.org/Documentation/02-Kernel/04-API-references/01-Task-creation/01-xTaskCreate)
 - [FreeRTOS學習筆記 (二)－任務創建和刪除(xTaskCreate及vTaskDelete)](https://linwhatever.blogspot.com/2018/11/freeftos.html)
 - [FreeRTOS - ESP32 - — ESP-IDF Programming Guide v4.3 documentation](https://docs.espressif.com/projects/esp-idf/en/v4.3/esp32/api-reference/system/freertos.html)
+
+### TODOs
+- [ ] atomic stuff, critical sections, semaphores (by programmically parallel input via serial ports on USART, etc)
+- [ ] multitasking
