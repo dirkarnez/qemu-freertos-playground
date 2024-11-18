@@ -1,6 +1,7 @@
 freertos-qemu-playground
 ========================
 - [dirkarnez/cpp-arm64-baremetal-machine-learning-playground](https://github.com/dirkarnez/cpp-arm64-baremetal-machine-learning-playground)
+- [FreeRTOS手札 - 者旨於陽 - 博客园](https://www.cnblogs.com/justin-y-lin/p/16272041.html)
 - [FreeRTOS/FreeRTOS/Demo/Common/Minimal at main · FreeRTOS/FreeRTOS](https://github.com/FreeRTOS/FreeRTOS/tree/main/FreeRTOS/Demo/Common/Minimal)
 - [FreeRTOS/FreeRTOS/Demo/Common/Minimal at main · FreeRTOS/FreeRTOS](https://github.com/FreeRTOS/FreeRTOS/tree/main/FreeRTOS/Demo/Common/Minimal)
 - [FreeRTOS MPS2 QEMU Demo (Arm Cortex-M3) For both the IAR and arm-none-eabi-gcc compilers (makefile and Eclipse) - FreeRTOS™](https://www.freertos.org/Documentation/02-Kernel/03-Supported-devices/04-Demos/03-Emulation-and-simulation/QEMU/freertos-on-qemu-mps2-an385-model)
