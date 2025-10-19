@@ -1,4 +1,4 @@
-freertos-qemu-playground
+qemu-freertos-playground
 ========================
 - [dirkarnez/cpp-arm64-baremetal-machine-learning-playground](https://github.com/dirkarnez/cpp-arm64-baremetal-machine-learning-playground)
 - [FreeRTOS手札 - 者旨於陽 - 博客园](https://www.cnblogs.com/justin-y-lin/p/16272041.html)
